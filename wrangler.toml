@@ -1,0 +1,6 @@
+name = "kindle-book"
+main = "src/index.ts"
+compatibility_date = "2023-07-16"
+kv_namespaces = [
+  { binding = "KindleBook", id = "1d318a326a994a2faa9c67c8bc0cc16d" }
+]
